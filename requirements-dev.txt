@@ -337,7 +337,7 @@ tifffile==2022.8.12
     # via scikit-image
 timm==0.6.7
     # via imaginAIry (setup.py)
-tokenizers==0.12.1
+tokenizers==0.13.1
     # via transformers
 tomli==2.0.1
     # via
